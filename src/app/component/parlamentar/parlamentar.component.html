@@ -1,0 +1,4 @@
+<p>parlamentares</p>
+<uL *ngFor="let parlamentar of parlamentares | async">
+  <li>{{parlamentar.nomeParlamentar}} - <a href="https://dadosabertos.camara.leg.br/api/v2/deputados/{{parlamentar.numeroDeputadoID}}/despesas">Despesa</a> | <a href="https://dadosabertos.camara.leg.br/api/v2/deputados/{{parlamentar.numeroDeputadoID}}">Dados</a> </li>
+</uL>

@@ -1,0 +1,21 @@
+{
+  "id": 178936,
+  "nome": "ALEXANDRE VALLE",
+  "siglaPartido": "PTB",
+  "siglaUf": "AL",
+  "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74332.jpg",
+  "email": "dep.antonioferreira@camara.leg.br",
+  "condicaoEleitoral": "Suplente",
+  "despesas": [
+    {
+    "id": 1,
+    "nomeParlamentar": "ALEXANDRE VALLE",
+    "idDeputado": 178936,
+    "descricao": "Emissão Bilhete Aéreo",
+    "fornecedor": "Cia Aérea - GOL",
+    "valorDocumento": "223",
+    "mes": 1,
+    "ano": 2019
+    }
+  ]
+}
